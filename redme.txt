@@ -1,5 +1,0 @@
-Para resolver el ejercicio utilice el lenguaje JavaScript.
-Realicé los dos ejercicio segun el contexto que me indicaron.
-Para el ejercicio nro 2, en donde se tiene que tener en cuenta los recursos y el tiempo de ejecución, utilicé del bucle for. Esta elección me permite
-cortar el recorrido cuando se encuentra coincidencia en la sumatoria o cuando el recorrido del array llegó a su fin. Esta lógica me ayuda a tener un
-búsqueda mas eficaz en comparación al ejercicio 1.
